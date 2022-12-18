@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 this is a master branch and there are 
+<<<<<<< HEAD
 one two three four five six thirteen fourteen
+=======
+one two three four five six elleven twelve
+>>>>>>> AnotherBranch
 
 
 sdg
