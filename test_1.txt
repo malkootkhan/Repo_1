@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is a master branch and there are 
 one two three four five six
 
@@ -9,3 +10,7 @@ sdfgs
 dfg
 dfg
 
+=======
+there was nothing in master
+seven eith nine ten
+>>>>>>> newBranch
