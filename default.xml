@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/malkootkhan" name="origin" />
+  <default remote="origin" sync-j="4" revision="master"/>
+   <project name="Repo_1" path="test_1"/>
+</manifest>
